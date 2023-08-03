@@ -34,10 +34,90 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
 
 - [Pair Programming Guide by Martin Fowler](https://martinfowler.com/articles/on-pair-programming.html)
 
-- [Git Docs](https://git-scm.com/doc)
-
 - [Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- [Node.js Docs](https://nodejs.org/en/docs)
+- [BigO Cheatsheet](https://www.bigocheatsheet.com/)
 
-### Cracking the Technical Interview
+- [JavaScript Syntax](https://javascript.info/)
+
+- [Leetcode - Top 100 Liked Questions](https://leetcode.com/problem-list/top-100-liked-questions/)
+
+## Classic Kevin Leetcode Problems
+
+- [Hashmaps](https://leetcode.com/problems/contains-duplicate/)
+
+- [Maps](https://leetcode.com/problems/valid-anagram/)
+
+- [More Maps...](https://leetcode.com/problems/two-sum/)
+
+- [Variation of Maps](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)
+
+- [Challenge Yourself ->](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/)
+
+- [ Extra Credit](https://leetcode.com/problems/equal-row-and-column-pairs/)
+
+## Cracking the Technical Interview
+
+- [Good Book Resource](https://www.crackingthecodinginterview.com/)
+
+## Course Outline
+
+#### Week 1
+
+- [] August 1st:
+
+  - Recording:
+  - Passcode:
+
+- [] August 2nd:
+
+  - Recording:
+  - Passcode:
+
+- [] August 3rd:
+
+  - Recording:
+  - Passcode:
+
+#### Week 2
+
+- [] August 7th:
+
+  - Recording:
+  - Passcode:
+
+- [] August 8th:
+
+  - Recording:
+  - Passcode:
+
+- [] August 9th:
+
+  - Recording:
+  - Passcode:
+
+- [] August 10th:
+  - Recording:
+  - Passcode:
+
+#### Week 3
+
+- [] August 14th:
+
+  - Recording:
+  - Passcode:
+
+- [] August 15th:
+
+  - Recording:
+  - Passcode:
+
+- [] August 16th:
+
+  - Recording:
+  - Passcode:
+
+- [] August 17th:
+
+  - Recording:
+  - Passcode:
