@@ -2,6 +2,9 @@
 
 ## Welcome
 
+<img src='https://media4.giphy.com/media/3o6Yg4GUVgIUg3bf7W/giphy.gif?cid=ecf05e47wuqpv8sns52wd76pwqi9g4pnc7g7aouvpr7x1q54&ep=v1_gifs_search&rid=giphy.gif&ct=g
+' width='200'>
+
 Hey there, awesome students! Buckle up and get ready to dive into the exciting world of Data Structures and Algortithms, with host, Kevin Yu. Now, let's talk about the three 'rules' that will make this journey even more enjoyable:
 
 ###### Rule #1
