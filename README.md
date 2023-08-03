@@ -71,6 +71,7 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
 
 - [ ] August 2nd:
 
+  - [ Space and Time Complexity Slides ](https://docs.google.com/presentation/d/1j3e7zPaZnDmAZoXeq729RXg68ZQyE_iu/edit#slide=id.p1)
   - Recording:
   - Passcode:
 
