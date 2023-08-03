@@ -64,60 +64,60 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
 
 #### Week 1
 
-- [] August 1st:
+- [ ] August 1st:
 
   - Recording:
   - Passcode:
 
-- [] August 2nd:
+- [ ] August 2nd:
 
   - Recording:
   - Passcode:
 
-- [] August 3rd:
+- [ ] August 3rd:
 
   - Recording:
   - Passcode:
 
 #### Week 2
 
-- [] August 7th:
+- [ ] August 7th:
 
   - Recording:
   - Passcode:
 
-- [] August 8th:
+- [ ] August 8th:
 
   - Recording:
   - Passcode:
 
-- [] August 9th:
+- [ ] August 9th:
 
   - Recording:
   - Passcode:
 
-- [] August 10th:
+- [ ] August 10th:
   - Recording:
   - Passcode:
 
 #### Week 3
 
-- [] August 14th:
+- [ ] August 14th:
 
   - Recording:
   - Passcode:
 
-- [] August 15th:
+- [ ] August 15th:
 
   - Recording:
   - Passcode:
 
-- [] August 16th:
+- [ ] August 16th:
 
   - Recording:
   - Passcode:
 
-- [] August 17th:
+- [ ] August 17th:
 
   - Recording:
   - Passcode:
