@@ -66,14 +66,14 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
 
 - [ ] August 1st:
 
-  - Recording:
-  - Passcode:
+  - Recording: https://us06web.zoom.us/rec/share/i2U71OPRALO-dKolijgvmvUtsGA3gGH960mLoqySrGROr89a8sScMOtyjnaAlxer.ZN7H8PKoB21HRZce
+  - Passcode: Passcode: O19+n&PB
 
 - [ ] August 2nd:
 
   - [ Space and Time Complexity Slides ](https://docs.google.com/presentation/d/1j3e7zPaZnDmAZoXeq729RXg68ZQyE_iu/edit#slide=id.p1)
-  - Recording:
-  - Passcode:
+  - Recording:https://us06web.zoom.us/rec/share/IJ9AOJKJGUzuQbNHAWW6UMK2oap7OSY3E1UCuR8WBtEHp5CFCh-szwjK7zRIeu6R.S1Kigg3Ap2-DnY2c
+  - Passcode:PDH2W$G5
 
 - [ ] August 3rd:
 
