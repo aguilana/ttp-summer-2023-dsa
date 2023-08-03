@@ -81,43 +81,43 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
 
 #### Week 2
 
-- [ ] August 7th:
+- [ ] August 7th: `OOP`
 
   - Recording:
   - Passcode:
 
-- [ ] August 8th:
+- [ ] August 8th: `Fast and Slow Pointers`
 
   - Recording:
   - Passcode:
 
-- [ ] August 9th:
+- [ ] August 9th: `Sliding Window`
 
   - Recording:
   - Passcode:
 
-- [ ] August 10th:
+- [ ] August 10th: `Tree - DFS (pre-order, in-order, post-order) and BFS`
   - Recording:
   - Passcode:
 
 #### Week 3
 
-- [ ] August 14th:
+- [ ] August 14th: `Mock Interview`
 
   - Recording:
   - Passcode:
 
-- [ ] August 15th:
+- [ ] August 15th: `Mock Interview`
 
   - Recording:
   - Passcode:
 
-- [ ] August 16th:
+- [ ] August 16th: `Mock Interview`
 
   - Recording:
   - Passcode:
 
-- [ ] August 17th:
+- [ ] August 17th: `Mock Interview`
 
   - Recording:
   - Passcode:
