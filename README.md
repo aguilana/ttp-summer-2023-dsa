@@ -28,7 +28,7 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
 
 ## Quick Links and Resources
 
-- [Class Repo](https://github.com/DBorhara/ttp-summer-2023)
+- [Class Repo](https://github.com/aguilana/ttp-summer-2023-dsa)
 
 - [Pair Programming Guide by Martin Fowler](https://martinfowler.com/articles/on-pair-programming.html)
 
