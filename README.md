@@ -77,7 +77,7 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
 
 - [ ] August 3rd:
 
-  - Recording:
+  - Recording: https://www.youtube.com/watch?v=Q-gqTi0B9kU
   - Passcode:
 
 #### Week 2
