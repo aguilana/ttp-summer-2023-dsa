@@ -64,30 +64,30 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
 
 #### Week 1
 
-- [ ] August 1st:
+- [ X ] August 1st:
 
   - Recording: https://us06web.zoom.us/rec/share/i2U71OPRALO-dKolijgvmvUtsGA3gGH960mLoqySrGROr89a8sScMOtyjnaAlxer.ZN7H8PKoB21HRZce
   - Passcode: O19+n&PB
 
-- [ ] August 2nd:
+- [ X ] August 2nd:
 
   - [ Space and Time Complexity Slides ](https://docs.google.com/presentation/d/1j3e7zPaZnDmAZoXeq729RXg68ZQyE_iu/edit#slide=id.p1)
   - Recording:https://us06web.zoom.us/rec/share/IJ9AOJKJGUzuQbNHAWW6UMK2oap7OSY3E1UCuR8WBtEHp5CFCh-szwjK7zRIeu6R.S1Kigg3Ap2-DnY2c
   - Passcode: PDH2W$G5
 
-- [ ] August 3rd:
+- [ X ] August 3rd:
 
   - Recording: https://www.youtube.com/watch?v=Q-gqTi0B9kU
   - Passcode:
 
 #### Week 2
 
-- [ ] August 7th: `OOP`
+- [ X ] August 7th: `OOP`
 
   - Recording: https://us06web.zoom.us/rec/share/-CtqYD7bs4Gg5O7YQ1JPfl5pc4EgKUpoXFdZMsCKoyDWhjJ2jwtXReysT4x8nsSx.P3M11U6uojIGNnth
   - Passcode: JqtX^+a2
 
-- [ ] August 8th: `Fast and Slow Pointers`
+- [ X ] August 8th: `Fast and Slow Pointers`
 
   - Recording: https://us06web.zoom.us/rec/share/sLWtpuhRNRqihh4A4ql8qcXM8BkNWj9g9DYql3pF5j1DVJfxa4V_R_x54uiOh9GA.Z5N1Tu_LB_WXLDiv
   - Passcode: f?$DG\*2?
