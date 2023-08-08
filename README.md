@@ -89,8 +89,8 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
 
 - [ ] August 8th: `Fast and Slow Pointers`
 
-  - Recording:
-  - Passcode:
+  - Recording: https://us06web.zoom.us/rec/share/sLWtpuhRNRqihh4A4ql8qcXM8BkNWj9g9DYql3pF5j1DVJfxa4V_R_x54uiOh9GA.Z5N1Tu_LB_WXLDiv
+  - Passcode: f?$DG\*2?
 
 - [ ] August 9th: `Sliding Window`
 
