@@ -60,6 +60,10 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
 
 - [Good Book Resource](https://www.crackingthecodinginterview.com/)
 
+## Excalidraws in class
+
+- [Excalidraw](https://excalidraw.com/#room=648ace67d467df61fe39,UWUOgzc2iQBKA0i-kpxSTg)
+
 ## Course Outline
 
 #### Week 1
