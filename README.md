@@ -92,18 +92,18 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
   - Recording: https://us06web.zoom.us/rec/share/sLWtpuhRNRqihh4A4ql8qcXM8BkNWj9g9DYql3pF5j1DVJfxa4V_R_x54uiOh9GA.Z5N1Tu_LB_WXLDiv
   - Passcode: f?$DG\*2?
 
-- [ ] August 9th: `Sliding Window`
+- [x] August 9th: `Sliding Window`
 
-  - Recording:
-  - Passcode:
+  - Recording: https://us06web.zoom.us/rec/share/r7T7IH_t8uIBnVdxfBA5KylwrYS8rXW1Ew6MkyUx6Etas_3r6aLaDvd2A5FzWO0U.EvCixv2SHrk0j8jr
+  - Passcode: 64kesTy#
 
-- [ ] August 10th: `Tree - DFS (pre-order, in-order, post-order) and BFS`
+- [ ] August 10th: `Tree - BFS`
   - Recording:
   - Passcode:
 
 #### Week 3
 
-- [ ] August 14th: `Mock Interview`
+- [ ] August 14th: `Tree - DFS (pre-order, in-order, post-order)`
 
   - Recording:
   - Passcode:
