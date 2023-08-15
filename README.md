@@ -107,10 +107,10 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
 
 #### Week 3
 
-- [ ] August 14th: `Tree - DFS (pre-order, in-order, post-order)`
+- [x] August 14th: `Tree - DFS (pre-order, in-order, post-order)`
 
-  - Recording:
-  - Passcode:
+  - Recording: https://us06web.zoom.us/rec/share/Yil1jawr6hIpqZDgO64guO0wWQtohKmwSyrII_Sw3PFWIdWfJAlXYlWadTA-hmAn.5bAJkJeq6KaFgSbW
+  - Passcode: QK1.NfE!
 
 - [ ] August 15th: `Mock Interview`
 
