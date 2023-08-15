@@ -101,7 +101,7 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
   - Recording: https://us06web.zoom.us/rec/share/r7T7IH_t8uIBnVdxfBA5KylwrYS8rXW1Ew6MkyUx6Etas_3r6aLaDvd2A5FzWO0U.EvCixv2SHrk0j8jr
   - Passcode: 64kesTy#
 
-- [ ] August 10th: `Tree - BFS`
+- [x] August 10th: `Tree - BFS`
   - Recording: https://us06web.zoom.us/rec/share/boJT0p6VjH84I-yuYXHDiWa3GdApKz8qcvgDkauNS80yUttnUsJMBN0-tSI3jEGP.gutYnwX2Q_UkNppR
   - Passcode: N\*R?wDw4
 
