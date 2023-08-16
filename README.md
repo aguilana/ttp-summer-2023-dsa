@@ -123,12 +123,26 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
   2. https://leetcode.com/problems/permutations/description/
   3. https://leetcode.com/problems/letter-tile-possibilities/description/
 
-- [ ] August 16th: `Mock Interview`
+- [ ] August 16th: `LeetRooms`
 
   - Recording:
   - Passcode:
 
-- [ ] August 17th: `Mock Interview`
+  leetroom 1:
+
+  1. https://leetcode.com/problems/intersection-of-two-arrays/
+  2. https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
+  3. https://leetcode.com/problems/path-crossing/
+  4. https://leetcode.com/problems/keep-multiplying-found-values-by-two/
+
+  leetcode room 2:
+
+  1.
+  2.
+  3.
+  4.
+
+- [ ] August 17th: `Take Home Assessment`
 
   - Recording:
   - Passcode:
