@@ -112,10 +112,16 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
   - Recording: https://us06web.zoom.us/rec/share/Yil1jawr6hIpqZDgO64guO0wWQtohKmwSyrII_Sw3PFWIdWfJAlXYlWadTA-hmAn.5bAJkJeq6KaFgSbW
   - Passcode: QK1.NfE!
 
-- [ ] August 15th: `Mock Interview`
+- [x] August 15th: `Backtracking`
 
-  - Recording:
-  - Passcode:
+  - Recording: https://us06web.zoom.us/rec/share/xhGuGgGVMe_7zKh6q7BlycL6aRd5MSHP0kutrD4NuA6MpJjyiC0KY5R8SQoTUKc.PTxhjQf2x1p8yiaN
+  - Passcode: wawvRT4+
+
+  leetcode problems:
+
+  1. https://leetcode.com/problems/binary-tree-paths/
+  2. https://leetcode.com/problems/permutations/description/
+  3. https://leetcode.com/problems/letter-tile-possibilities/description/
 
 - [ ] August 16th: `Mock Interview`
 
