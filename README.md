@@ -135,7 +135,7 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
   3. https://leetcode.com/problems/path-crossing/
   4. https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 
-- [ ] August 17th: `2hr Coding Interview + 1hr walk-through`
+- [x] August 17th: `2hr Coding Interview/Assessment + 1hr walk-through`
 
-  - Recording:
-  - Passcode:
+  - Recording: https://us06web.zoom.us/rec/share/-Z2xnMQP_LjWWNnRW2GDSVui52HzYh6etKgcGKa0iqoKdWcp__5ll34BCBj6pPfN.BwcNuIFYYSuCfcMk
+  - Passcode: z40\*ktCn
