@@ -123,10 +123,10 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
   2. https://leetcode.com/problems/permutations/description/
   3. https://leetcode.com/problems/letter-tile-possibilities/description/
 
-- [ ] August 16th: `LeetRooms`
+- [x] August 16th: `LeetRooms`
 
-  - Recording:
-  - Passcode:
+  - Recording: https://us06web.zoom.us/rec/share/UNGUQeqcx7UxBmaZGLJ19tbJii1A9Jk2T0x8KmQm_CHFk-gFOQzXYN4R-cI_8zni.bN1LrAabNp6ohWyU
+  - Passcode: jp8QMNq=
 
   leetroom 1:
 
@@ -135,14 +135,7 @@ Alright, let's get this DSA party started! [Cue epic music](https://www.youtube.
   3. https://leetcode.com/problems/path-crossing/
   4. https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 
-  leetcode room 2:
-
-  1.
-  2.
-  3.
-  4.
-
-- [ ] August 17th: `Take Home Assessment`
+- [ ] August 17th: `2hr Coding Interview + 1hr walk-through`
 
   - Recording:
   - Passcode:
